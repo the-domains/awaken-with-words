@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Awaken with words - The Yoga of Writing ]]></title>
         <description><![CDATA[Awaken with words - The Yoga of Writing ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/awaken-with-words/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 04:23:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 04:25:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/awaken-with-words/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/awaken-with-words/aae319d6-6676-49b1-a7db-365734719d1e/index.html</link>
+            <guid isPermaLink="false">aae319d6-6676-49b1-a7db-365734719d1e</guid>
+            <pubDate>Tue, 26 Jan 2016 04:25:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome. </p>]]></description>
-            <link>undefinedf6b06e1c-2ba5-447f-a47e-111d9f690aaa/index.html</link>
+            <link>https://thegrid.ai/awaken-with-words/f6b06e1c-2ba5-447f-a47e-111d9f690aaa/index.html</link>
             <guid isPermaLink="false">f6b06e1c-2ba5-447f-a47e-111d9f690aaa</guid>
             <pubDate>Tue, 26 Jan 2016 04:23:11 GMT</pubDate>
         </item>
