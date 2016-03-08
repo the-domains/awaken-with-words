@@ -1,6 +1,6 @@
 name: Awaken With Words
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.12524
 typography_spectrum: 0.08306062640622258
 title: 'Awaken with words - The Yoga of Writing '
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f9f2e8'
-    - '#c09d5b'
-    - '#ddcc94'
-    - '#262221'
-    - '#504a3a'
-  brandStrength: 0.0625
+    - '#000000'
+    - '#ffffff'
+    - '#3d3d3d'
+    - '#cfcfcf'
+    - '#6c6c6c'
+  brandStrength: 0.1875
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.75
